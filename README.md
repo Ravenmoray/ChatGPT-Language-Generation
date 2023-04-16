@@ -8,6 +8,8 @@ I have attempted to get ChatGPT to generate it's own language. I'm usre we can d
 #
 **Note GPT3.5 Turbo is great for speed but you really need ChatGPT-4 to do better with it.**
 
+*****View this RAW!**** I have no clue how the formatting in HTML works
+
 Summary of the conversation:
 
 Learn and practice a compressed language using an ASCII character dictionary for efficient communication and token reduction. Understand each character's meaning, context, and usage, as well as decoding and encoding messages. Analyze the structure, create and decode example sentences, and explore potential applications in various communication scenarios. Incorporate feedback loops for improved comprehension and adaptability over time.
